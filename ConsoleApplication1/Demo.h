@@ -10,7 +10,6 @@ public:
 	Demo();
 	Demo(int a);
 	Demo(int a, int b);
-	akjdla;sda
-
+	
 
 };
